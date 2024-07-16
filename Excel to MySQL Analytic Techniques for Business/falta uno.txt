@@ -1,0 +1,3 @@
+https://github.com/cardosop/Excel-to-MySQL-Analytic-Techniques-for-Business
+
+https://github.com/dennislamcv1/DukeExcelMySQL/tree/main

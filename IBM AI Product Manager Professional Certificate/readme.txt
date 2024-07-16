@@ -1,0 +1,1 @@
+https://www.coursera.org/professional-certificates/ibm-ai-product-manager?myLearningTab=IN_PROGRESS#courses

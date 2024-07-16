@@ -1,0 +1,7 @@
+vatsal-ibm-storage-bucket
+
+Standard: This storage class provides high-performance object storage with 99.999999999% data durability.   </span></span></p><p><span><span> Regional: Data is stored redundantly across multiple data centers within a specific geographic region. This provides protection against data centre failures and enables high availability within the region.
+
+Vault: This storage class offers cost-effective, long-term archival storage with 99.999999999% data durability. It is optimized for infrequently accessed data that needs to be stored for a longer duration.</span></span></p></li><li><p data-text-variant="body1"><span><span>Cold Vault: This storage class provides the lowest-cost option for long-term data retention, optimized for data that is accessed very infrequently. It offers 99.999999999% data durability and is ideal for compliance and regulatory requirements.
+
+https://vatsal-ibm-storage-bucket.s3.eu-gb.cloud-object-storage.appdomain.cloud/index.html
